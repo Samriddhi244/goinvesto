@@ -1,0 +1,201 @@
+ID,Name,Industry,Stage,Funding Required,Target Audience,Location,Preferred Entity,Revenue,Team Size,Pitch Deck
+1,Startup_1,AgriTech,Series B,224950,B2G,Meghalaya,Investor,416012,45,https://pitchdeck.com/1
+2,Startup_2,Gaming,Series A,1534390,B2C,Chhattisgarh,Investor,460780,44,https://pitchdeck.com/2
+3,Startup_3,RetailTech,Seed,1797726,D2C,Himachal Pradesh,Incubator,371343,2,https://pitchdeck.com/3
+4,Startup_4,Gaming,Series A,661609,B2B,Madhya Pradesh,Investor,410938,41,https://pitchdeck.com/4
+5,Startup_5,FoodTech,Series C,988073,B2G,Mizoram,Investor,289368,17,https://pitchdeck.com/5
+6,Startup_6,Property Technology,Series A,77977,D2C,Uttarakhand,Incubator,189811,18,https://pitchdeck.com/6
+7,Startup_7,SaaS,Pre Seed,1515733,D2C,Uttarakhand,Incubator,390014,20,https://pitchdeck.com/7
+8,Startup_8,Property Technology,Seed,1447192,B2G,Arunachal Pradesh,Incubator,53095,38,https://pitchdeck.com/8
+9,Startup_9,SaaS,Series C,948258,D2C,Tamil Nadu,Incubator,338369,30,https://pitchdeck.com/9
+10,Startup_10,CleanTech,Seed,1739662,B2B,Meghalaya,Incubator,261118,33,https://pitchdeck.com/10
+11,Startup_11,Cybersecurity,Series C,1747731,B2C,Andhra Pradesh,Investor,498773,35,https://pitchdeck.com/11
+12,Startup_12,AI,Series A,199247,B2G,Telangana,Investor,30014,12,https://pitchdeck.com/12
+13,Startup_13,E-commerce,Series A,646492,B2B,Maharashtra,Incubator,352792,14,https://pitchdeck.com/13
+14,Startup_14,FoodTech,Pre Seed,335147,B2G,Arunachal Pradesh,Incubator,344632,16,https://pitchdeck.com/14
+15,Startup_15,SaaS,Series A,1278744,B2G,Uttar Pradesh,Incubator,386513,33,https://pitchdeck.com/15
+16,Startup_16,CleanTech,Pre Seed,740816,B2G,Karnataka,Investor,468290,23,https://pitchdeck.com/16
+17,Startup_17,Fintech,Series B,367655,B2G,Uttarakhand,Incubator,122817,8,https://pitchdeck.com/17
+18,Startup_18,EdTech,Series B,1585305,B2C,Chhattisgarh,Incubator,419251,45,https://pitchdeck.com/18
+19,Startup_19,E-commerce,Pre Seed,672202,B2G,Karnataka,Investor,228039,13,https://pitchdeck.com/19
+20,Startup_20,FoodTech,Series B,1195960,B2C,Maharashtra,Incubator,419577,40,https://pitchdeck.com/20
+21,Startup_21,Cybersecurity,Pre Seed,343294,D2C,Andhra Pradesh,Investor,61558,5,https://pitchdeck.com/21
+22,Startup_22,RetailTech,Series C,1356575,B2G,Himachal Pradesh,Investor,171682,43,https://pitchdeck.com/22
+23,Startup_23,TravelTech,Pre Seed,1988284,B2B,Uttar Pradesh,Investor,49189,48,https://pitchdeck.com/23
+24,Startup_24,Gaming,Series C,864121,B2G,Nagaland,Investor,396211,31,https://pitchdeck.com/24
+25,Startup_25,MediaTech,Series A,283703,B2G,Tripura,Investor,218817,42,https://pitchdeck.com/25
+26,Startup_26,EdTech,Series B,122339,B2G,Meghalaya,Investor,326844,5,https://pitchdeck.com/26
+27,Startup_27,Biotech,Pre Seed,1519121,B2C,Jharkhand,Incubator,306726,36,https://pitchdeck.com/27
+28,Startup_28,RetailTech,Pre Seed,1730075,B2G,Arunachal Pradesh,Incubator,452054,3,https://pitchdeck.com/28
+29,Startup_29,Robotics,Pre Seed,1724931,B2G,Assam,Investor,296564,24,https://pitchdeck.com/29
+30,Startup_30,Biotech,Series C,430015,B2G,Sikkim,Investor,342039,32,https://pitchdeck.com/30
+31,Startup_31,MediaTech,Seed,255147,B2B,Nagaland,Investor,277356,49,https://pitchdeck.com/31
+32,Startup_32,AgriTech,Series B,1477069,B2C,Nagaland,Investor,139266,45,https://pitchdeck.com/32
+33,Startup_33,SaaS,Pre Seed,1725681,B2G,Manipur,Investor,111126,19,https://pitchdeck.com/33
+34,Startup_34,Biotech,Series A,119710,B2C,Madhya Pradesh,Incubator,66088,42,https://pitchdeck.com/34
+35,Startup_35,Renewable Energy,Seed,519353,B2G,Telangana,Incubator,359327,24,https://pitchdeck.com/35
+36,Startup_36,Gaming,Pre Seed,1771213,D2C,Sikkim,Investor,395806,20,https://pitchdeck.com/36
+37,Startup_37,MediaTech,Series A,577421,D2C,Arunachal Pradesh,Incubator,172846,14,https://pitchdeck.com/37
+38,Startup_38,AgriTech,Series B,1878282,B2G,Punjab,Investor,35278,5,https://pitchdeck.com/38
+39,Startup_39,RetailTech,Pre Seed,1749670,D2C,Bihar,Investor,247970,11,https://pitchdeck.com/39
+40,Startup_40,Biotech,Series B,1563151,B2B,Chhattisgarh,Investor,349711,30,https://pitchdeck.com/40
+41,Startup_41,HealthTech,Seed,606999,B2B,Tamil Nadu,Incubator,414678,4,https://pitchdeck.com/41
+42,Startup_42,Biotech,Series A,263573,D2C,Telangana,Incubator,243022,22,https://pitchdeck.com/42
+43,Startup_43,MediaTech,Seed,236364,D2C,Karnataka,Incubator,303611,36,https://pitchdeck.com/43
+44,Startup_44,CleanTech,Series B,1161158,B2G,Punjab,Incubator,425027,19,https://pitchdeck.com/44
+45,Startup_45,EdTech,Pre Seed,890399,B2B,Mizoram,Investor,72337,31,https://pitchdeck.com/45
+46,Startup_46,IoT,Seed,971249,B2C,Bihar,Incubator,198295,43,https://pitchdeck.com/46
+47,Startup_47,E-commerce,Seed,1719211,B2G,Uttar Pradesh,Investor,420686,45,https://pitchdeck.com/47
+48,Startup_48,Robotics,Series A,1461203,B2B,Meghalaya,Investor,404914,41,https://pitchdeck.com/48
+49,Startup_49,EdTech,Series B,1036673,B2G,Andhra Pradesh,Investor,414539,37,https://pitchdeck.com/49
+50,Startup_50,Renewable Energy,Series B,1728764,B2B,Nagaland,Investor,221034,40,https://pitchdeck.com/50
+51,Startup_51,AgriTech,Series A,1789322,B2B,Tripura,Incubator,303845,19,https://pitchdeck.com/51
+52,Startup_52,SaaS,Seed,104761,D2C,Andhra Pradesh,Investor,201205,9,https://pitchdeck.com/52
+53,Startup_53,Biotech,Series C,297906,B2B,Uttar Pradesh,Incubator,219387,24,https://pitchdeck.com/53
+54,Startup_54,HealthTech,Series C,1216800,D2C,Goa,Investor,108449,18,https://pitchdeck.com/54
+55,Startup_55,AgriTech,Pre Seed,550631,D2C,Himachal Pradesh,Investor,322153,32,https://pitchdeck.com/55
+56,Startup_56,AgriTech,Seed,477893,B2G,Karnataka,Investor,129937,25,https://pitchdeck.com/56
+57,Startup_57,AgriTech,Pre Seed,1485827,B2C,Meghalaya,Investor,286014,6,https://pitchdeck.com/57
+58,Startup_58,Fintech,Series C,1017683,D2C,Andhra Pradesh,Incubator,435824,4,https://pitchdeck.com/58
+59,Startup_59,CleanTech,Series B,590872,B2C,Tamil Nadu,Incubator,236551,48,https://pitchdeck.com/59
+60,Startup_60,TravelTech,Series B,566923,B2B,Nagaland,Incubator,240078,35,https://pitchdeck.com/60
+61,Startup_61,AgriTech,Series A,167221,D2C,Mizoram,Incubator,393321,11,https://pitchdeck.com/61
+62,Startup_62,Biotech,Pre Seed,1943328,D2C,Tripura,Investor,393147,27,https://pitchdeck.com/62
+63,Startup_63,Gaming,Pre Seed,1019900,B2G,West Bengal,Investor,331002,44,https://pitchdeck.com/63
+64,Startup_64,SaaS,Series C,1456650,B2C,Uttarakhand,Investor,459547,37,https://pitchdeck.com/64
+65,Startup_65,Property Technology,Series A,1284588,B2G,Andhra Pradesh,Investor,23398,36,https://pitchdeck.com/65
+66,Startup_66,Biotech,Series B,794278,D2C,Uttarakhand,Incubator,332536,18,https://pitchdeck.com/66
+67,Startup_67,MediaTech,Series C,135788,B2G,Odisha,Incubator,59688,31,https://pitchdeck.com/67
+68,Startup_68,E-commerce,Seed,963954,B2B,West Bengal,Incubator,97320,31,https://pitchdeck.com/68
+69,Startup_69,AgriTech,Pre Seed,540880,B2G,West Bengal,Incubator,204903,33,https://pitchdeck.com/69
+70,Startup_70,MediaTech,Series A,881484,B2B,Andhra Pradesh,Investor,87331,13,https://pitchdeck.com/70
+71,Startup_71,E-commerce,Seed,275655,D2C,Rajasthan,Investor,118138,22,https://pitchdeck.com/71
+72,Startup_72,SaaS,Series A,1581812,B2G,Nagaland,Incubator,179619,35,https://pitchdeck.com/72
+73,Startup_73,EdTech,Series A,166948,B2C,Bihar,Incubator,369612,35,https://pitchdeck.com/73
+74,Startup_74,MediaTech,Series A,1712878,B2G,Gujarat,Investor,132324,44,https://pitchdeck.com/74
+75,Startup_75,FoodTech,Seed,622670,B2G,Odisha,Incubator,219365,3,https://pitchdeck.com/75
+76,Startup_76,Robotics,Seed,558120,D2C,Himachal Pradesh,Incubator,261117,39,https://pitchdeck.com/76
+77,Startup_77,AI,Series A,1118751,B2B,Gujarat,Investor,151982,13,https://pitchdeck.com/77
+78,Startup_78,Property Technology,Series A,1009894,B2B,Maharashtra,Investor,397663,23,https://pitchdeck.com/78
+79,Startup_79,Renewable Energy,Pre Seed,431790,B2C,Gujarat,Investor,179242,9,https://pitchdeck.com/79
+80,Startup_80,Fintech,Pre Seed,643339,B2C,Uttarakhand,Incubator,467240,24,https://pitchdeck.com/80
+81,Startup_81,Renewable Energy,Pre Seed,222389,B2G,Gujarat,Incubator,240014,24,https://pitchdeck.com/81
+82,Startup_82,IoT,Series B,1743644,D2C,Assam,Incubator,382254,45,https://pitchdeck.com/82
+83,Startup_83,CleanTech,Pre Seed,84946,D2C,Tripura,Incubator,389649,7,https://pitchdeck.com/83
+84,Startup_84,Gaming,Series C,1837880,B2G,Jharkhand,Investor,468138,33,https://pitchdeck.com/84
+85,Startup_85,Robotics,Series A,442430,B2C,Kerala,Investor,286085,16,https://pitchdeck.com/85
+86,Startup_86,Logistics,Seed,1233107,D2C,Meghalaya,Investor,221217,44,https://pitchdeck.com/86
+87,Startup_87,Renewable Energy,Series B,334091,D2C,Nagaland,Investor,417663,34,https://pitchdeck.com/87
+88,Startup_88,E-commerce,Series A,1516959,D2C,Punjab,Incubator,472078,19,https://pitchdeck.com/88
+89,Startup_89,Robotics,Series B,1082954,B2G,Meghalaya,Investor,71507,43,https://pitchdeck.com/89
+90,Startup_90,AI,Series A,815752,D2C,Himachal Pradesh,Incubator,45594,18,https://pitchdeck.com/90
+91,Startup_91,RetailTech,Seed,302577,B2G,Tripura,Investor,116685,35,https://pitchdeck.com/91
+92,Startup_92,CleanTech,Series C,158510,D2C,Uttar Pradesh,Investor,261584,47,https://pitchdeck.com/92
+93,Startup_93,MediaTech,Series C,967931,D2C,Chhattisgarh,Incubator,469268,50,https://pitchdeck.com/93
+94,Startup_94,Gaming,Pre Seed,952726,B2B,Uttarakhand,Investor,226549,10,https://pitchdeck.com/94
+95,Startup_95,E-commerce,Seed,606059,D2C,Odisha,Investor,34424,45,https://pitchdeck.com/95
+96,Startup_96,E-commerce,Series B,1789370,B2B,Haryana,Investor,23505,7,https://pitchdeck.com/96
+97,Startup_97,IoT,Seed,1299662,B2B,Haryana,Investor,62813,23,https://pitchdeck.com/97
+98,Startup_98,Logistics,Series C,1638479,B2B,Kerala,Incubator,185147,36,https://pitchdeck.com/98
+99,Startup_99,FoodTech,Series C,1142293,B2C,Madhya Pradesh,Incubator,453205,14,https://pitchdeck.com/99
+100,Startup_100,Cybersecurity,Series B,1880635,D2C,Maharashtra,Investor,287407,19,https://pitchdeck.com/100
+101,Startup_101,IoT,Series A,1570224,B2G,Jharkhand,Investor,407489,46,https://pitchdeck.com/101
+102,Startup_102,CleanTech,Series C,674867,B2C,Sikkim,Incubator,180871,49,https://pitchdeck.com/102
+103,Startup_103,E-commerce,Series C,645288,B2G,Nagaland,Investor,346392,49,https://pitchdeck.com/103
+104,Startup_104,AI,Series A,1965069,B2G,Tamil Nadu,Incubator,148418,42,https://pitchdeck.com/104
+105,Startup_105,E-commerce,Series A,1393115,B2C,Jharkhand,Investor,133313,16,https://pitchdeck.com/105
+106,Startup_106,AgriTech,Series B,1358818,B2C,Rajasthan,Investor,112030,16,https://pitchdeck.com/106
+107,Startup_107,E-commerce,Series A,1794340,B2B,Tripura,Investor,305205,30,https://pitchdeck.com/107
+108,Startup_108,RetailTech,Series C,1427539,B2B,Bihar,Incubator,96864,37,https://pitchdeck.com/108
+109,Startup_109,Property Technology,Series A,814648,B2B,Arunachal Pradesh,Incubator,324042,42,https://pitchdeck.com/109
+110,Startup_110,TravelTech,Series C,1360870,B2B,Uttar Pradesh,Investor,478331,24,https://pitchdeck.com/110
+111,Startup_111,RetailTech,Pre Seed,1489429,B2C,Assam,Investor,80580,44,https://pitchdeck.com/111
+112,Startup_112,SaaS,Seed,514239,D2C,Rajasthan,Incubator,415973,24,https://pitchdeck.com/112
+113,Startup_113,AgriTech,Series B,1029448,B2C,Mizoram,Incubator,426376,38,https://pitchdeck.com/113
+114,Startup_114,Gaming,Series C,128946,B2G,Assam,Investor,55723,30,https://pitchdeck.com/114
+115,Startup_115,Biotech,Seed,1796444,B2C,Gujarat,Incubator,397226,38,https://pitchdeck.com/115
+116,Startup_116,SaaS,Pre Seed,1167720,B2C,Manipur,Incubator,349490,27,https://pitchdeck.com/116
+117,Startup_117,E-commerce,Pre Seed,308657,B2B,Madhya Pradesh,Investor,215884,3,https://pitchdeck.com/117
+118,Startup_118,HealthTech,Pre Seed,869144,B2B,Uttarakhand,Incubator,310435,41,https://pitchdeck.com/118
+119,Startup_119,Renewable Energy,Series C,139163,B2C,Himachal Pradesh,Investor,383967,42,https://pitchdeck.com/119
+120,Startup_120,EdTech,Series B,1907201,B2G,Assam,Investor,225573,41,https://pitchdeck.com/120
+121,Startup_121,FoodTech,Seed,1247580,B2B,Rajasthan,Investor,298187,22,https://pitchdeck.com/121
+122,Startup_122,TravelTech,Series B,1090280,B2C,Kerala,Investor,110817,26,https://pitchdeck.com/122
+123,Startup_123,E-commerce,Series C,774682,B2G,Jharkhand,Incubator,148419,10,https://pitchdeck.com/123
+124,Startup_124,FoodTech,Series C,422135,B2G,Assam,Investor,451927,42,https://pitchdeck.com/124
+125,Startup_125,TravelTech,Series A,355928,B2C,Kerala,Investor,150935,32,https://pitchdeck.com/125
+126,Startup_126,Biotech,Pre Seed,852310,B2G,Tripura,Incubator,292545,26,https://pitchdeck.com/126
+127,Startup_127,EdTech,Series B,387907,B2B,Haryana,Investor,337605,46,https://pitchdeck.com/127
+128,Startup_128,IoT,Seed,1870502,B2G,Arunachal Pradesh,Investor,28156,25,https://pitchdeck.com/128
+129,Startup_129,Logistics,Pre Seed,467147,B2G,West Bengal,Investor,25179,23,https://pitchdeck.com/129
+130,Startup_130,HealthTech,Series C,541006,D2C,Chhattisgarh,Incubator,178719,29,https://pitchdeck.com/130
+131,Startup_131,AI,Pre Seed,1997898,B2G,Meghalaya,Incubator,483253,22,https://pitchdeck.com/131
+132,Startup_132,Cybersecurity,Seed,659325,D2C,Uttarakhand,Incubator,428317,20,https://pitchdeck.com/132
+133,Startup_133,E-commerce,Series C,557265,D2C,Kerala,Investor,384394,11,https://pitchdeck.com/133
+134,Startup_134,AgriTech,Series C,926415,D2C,Chhattisgarh,Investor,135631,18,https://pitchdeck.com/134
+135,Startup_135,HealthTech,Pre Seed,297317,B2G,Tamil Nadu,Incubator,359340,25,https://pitchdeck.com/135
+136,Startup_136,IoT,Series A,264396,D2C,Odisha,Incubator,68981,25,https://pitchdeck.com/136
+137,Startup_137,TravelTech,Series A,618445,D2C,Haryana,Investor,172917,24,https://pitchdeck.com/137
+138,Startup_138,Biotech,Pre Seed,1546067,D2C,Bihar,Investor,16851,28,https://pitchdeck.com/138
+139,Startup_139,CleanTech,Pre Seed,1779327,D2C,Telangana,Incubator,102042,17,https://pitchdeck.com/139
+140,Startup_140,Property Technology,Series B,1863655,D2C,Punjab,Incubator,351272,48,https://pitchdeck.com/140
+141,Startup_141,AgriTech,Series C,336634,B2B,Odisha,Incubator,91911,13,https://pitchdeck.com/141
+142,Startup_142,E-commerce,Pre Seed,103703,B2G,Goa,Investor,485898,29,https://pitchdeck.com/142
+143,Startup_143,Biotech,Series B,1033373,B2G,Uttarakhand,Investor,130101,28,https://pitchdeck.com/143
+144,Startup_144,Cybersecurity,Series A,735375,B2C,Odisha,Incubator,393143,12,https://pitchdeck.com/144
+145,Startup_145,SaaS,Series A,934248,B2C,Odisha,Investor,499198,2,https://pitchdeck.com/145
+146,Startup_146,AI,Series C,550925,B2G,Maharashtra,Incubator,392462,22,https://pitchdeck.com/146
+147,Startup_147,AgriTech,Series B,1138521,B2G,West Bengal,Investor,178064,42,https://pitchdeck.com/147
+148,Startup_148,AgriTech,Seed,974574,B2B,Mizoram,Incubator,251601,41,https://pitchdeck.com/148
+149,Startup_149,AgriTech,Pre Seed,885655,D2C,Nagaland,Investor,156229,35,https://pitchdeck.com/149
+150,Startup_150,IoT,Series B,1226287,B2G,Jharkhand,Investor,53856,37,https://pitchdeck.com/150
+151,Startup_151,Logistics,Series C,1645486,B2C,Kerala,Investor,202517,24,https://pitchdeck.com/151
+152,Startup_152,RetailTech,Series A,214246,B2C,Himachal Pradesh,Incubator,321859,10,https://pitchdeck.com/152
+153,Startup_153,AI,Pre Seed,1903117,B2C,Goa,Incubator,66874,30,https://pitchdeck.com/153
+154,Startup_154,IoT,Series A,1133456,B2G,Goa,Incubator,332706,26,https://pitchdeck.com/154
+155,Startup_155,EdTech,Pre Seed,1022924,B2B,Tripura,Incubator,131692,32,https://pitchdeck.com/155
+156,Startup_156,Biotech,Seed,1929913,B2G,Arunachal Pradesh,Investor,272196,32,https://pitchdeck.com/156
+157,Startup_157,Logistics,Seed,61449,B2G,Odisha,Investor,287813,48,https://pitchdeck.com/157
+158,Startup_158,EdTech,Series B,1843921,B2B,Uttarakhand,Investor,203410,42,https://pitchdeck.com/158
+159,Startup_159,Fintech,Series B,1028898,B2C,Karnataka,Investor,175092,40,https://pitchdeck.com/159
+160,Startup_160,Cybersecurity,Seed,1567975,B2C,Madhya Pradesh,Investor,418938,9,https://pitchdeck.com/160
+161,Startup_161,CleanTech,Series C,580711,B2B,Tamil Nadu,Incubator,244711,15,https://pitchdeck.com/161
+162,Startup_162,AI,Seed,348212,B2C,Madhya Pradesh,Investor,431619,37,https://pitchdeck.com/162
+163,Startup_163,MediaTech,Series B,549886,D2C,Manipur,Investor,268768,28,https://pitchdeck.com/163
+164,Startup_164,Renewable Energy,Series C,1316234,B2B,Chhattisgarh,Incubator,382857,49,https://pitchdeck.com/164
+165,Startup_165,CleanTech,Seed,548843,B2G,Maharashtra,Investor,298457,39,https://pitchdeck.com/165
+166,Startup_166,TravelTech,Seed,573610,B2B,Nagaland,Incubator,286503,45,https://pitchdeck.com/166
+167,Startup_167,EdTech,Seed,326639,D2C,Bihar,Incubator,229267,19,https://pitchdeck.com/167
+168,Startup_168,AgriTech,Series B,1986268,B2C,Manipur,Investor,455825,5,https://pitchdeck.com/168
+169,Startup_169,RetailTech,Series B,147194,B2C,Telangana,Incubator,370383,11,https://pitchdeck.com/169
+170,Startup_170,MediaTech,Series A,299799,D2C,Andhra Pradesh,Investor,452252,12,https://pitchdeck.com/170
+171,Startup_171,Cybersecurity,Seed,443078,B2G,Haryana,Incubator,350326,43,https://pitchdeck.com/171
+172,Startup_172,FoodTech,Seed,151551,D2C,Chhattisgarh,Incubator,137413,43,https://pitchdeck.com/172
+173,Startup_173,IoT,Series B,874760,D2C,Rajasthan,Investor,189473,41,https://pitchdeck.com/173
+174,Startup_174,HealthTech,Series B,224537,D2C,Arunachal Pradesh,Incubator,34842,18,https://pitchdeck.com/174
+175,Startup_175,Robotics,Seed,1262953,B2C,Nagaland,Incubator,197929,11,https://pitchdeck.com/175
+176,Startup_176,Cybersecurity,Pre Seed,332711,B2C,Meghalaya,Incubator,399787,10,https://pitchdeck.com/176
+177,Startup_177,FoodTech,Seed,556317,D2C,Sikkim,Investor,34148,27,https://pitchdeck.com/177
+178,Startup_178,E-commerce,Series B,856877,D2C,Jharkhand,Investor,292722,17,https://pitchdeck.com/178
+179,Startup_179,Renewable Energy,Series B,211784,B2G,Nagaland,Incubator,374247,26,https://pitchdeck.com/179
+180,Startup_180,CleanTech,Pre Seed,991710,B2B,Chhattisgarh,Investor,84169,31,https://pitchdeck.com/180
+181,Startup_181,HealthTech,Series C,1416687,B2C,Sikkim,Incubator,454806,40,https://pitchdeck.com/181
+182,Startup_182,Robotics,Seed,1464050,B2C,Tripura,Investor,272076,18,https://pitchdeck.com/182
+183,Startup_183,TravelTech,Pre Seed,1056957,B2B,Meghalaya,Investor,418108,9,https://pitchdeck.com/183
+184,Startup_184,Renewable Energy,Series A,1195133,D2C,Chhattisgarh,Investor,49473,13,https://pitchdeck.com/184
+185,Startup_185,Cybersecurity,Series A,64608,B2B,Karnataka,Investor,114334,13,https://pitchdeck.com/185
+186,Startup_186,AgriTech,Pre Seed,170678,D2C,Jharkhand,Incubator,169570,8,https://pitchdeck.com/186
+187,Startup_187,Biotech,Seed,1572262,B2G,Uttarakhand,Incubator,261453,35,https://pitchdeck.com/187
+188,Startup_188,RetailTech,Seed,523161,D2C,Tamil Nadu,Incubator,423313,28,https://pitchdeck.com/188
+189,Startup_189,EdTech,Pre Seed,1115173,B2G,Rajasthan,Investor,299053,37,https://pitchdeck.com/189
+190,Startup_190,FoodTech,Seed,510847,B2G,Sikkim,Incubator,23791,37,https://pitchdeck.com/190
+191,Startup_191,Property Technology,Seed,485028,D2C,Punjab,Incubator,441869,46,https://pitchdeck.com/191
+192,Startup_192,TravelTech,Seed,1589173,B2C,Madhya Pradesh,Incubator,280963,6,https://pitchdeck.com/192
+193,Startup_193,Cybersecurity,Seed,1079585,D2C,Bihar,Investor,183403,39,https://pitchdeck.com/193
+194,Startup_194,Renewable Energy,Seed,1005847,B2C,Rajasthan,Investor,491199,42,https://pitchdeck.com/194
+195,Startup_195,Biotech,Pre Seed,1925058,B2B,Sikkim,Investor,95100,7,https://pitchdeck.com/195
+196,Startup_196,Renewable Energy,Seed,604230,B2G,Himachal Pradesh,Investor,356167,32,https://pitchdeck.com/196
+197,Startup_197,EdTech,Series C,624129,B2G,Karnataka,Investor,137030,50,https://pitchdeck.com/197
+198,Startup_198,RetailTech,Series C,234815,B2B,Telangana,Incubator,377160,3,https://pitchdeck.com/198
+199,Startup_199,Property Technology,Series A,1320552,B2G,Himachal Pradesh,Investor,97389,20,https://pitchdeck.com/199
+200,Startup_200,EdTech,Series A,787949,B2B,Tripura,Investor,85040,3,https://pitchdeck.com/200

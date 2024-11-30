@@ -1,0 +1,201 @@
+ID,Name,Industry,Services,Stage,Location,Mentor Availability,Partnerships,Funding Support,Funds Available
+1,Incubator_1,SaaS,Workspace,Series B,Assam,No,10,Yes,Multisectoral Support for Entrepreneurs (MUDRA Yojana)
+2,Incubator_2,TravelTech,Mentoring,Series A,Sikkim,No,8,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+3,Incubator_3,Fintech,Mentoring,Seed,Haryana,Yes,9,Yes,Technology Development Programme (TDP)
+4,Incubator_4,MediaTech,Networking,Series A,Karnataka,No,5,Yes,Electronics Development Fund (EDF)
+5,Incubator_5,Fintech,Workspace,Series C,Uttarakhand,Yes,14,Yes,National Skill Development Initiative
+6,Incubator_6,AI,Networking,Series A,Goa,No,20,Yes,Electronics Development Fund (EDF)
+7,Incubator_7,Robotics,Networking,Pre Seed,Kerala,No,8,No,Fund of Funds for Startups (FFS)
+8,Incubator_8,AI,Networking,Seed,Haryana,No,2,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+9,Incubator_9,Biotech,Funding Support,Series C,Andhra Pradesh,Yes,5,No,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+10,Incubator_10,Fintech,Funding Support,Seed,Arunachal Pradesh,No,10,Yes,Stand-Up India Scheme
+11,Incubator_11,CleanTech,Networking,Series C,Rajasthan,Yes,3,No,SIDBI Make in India Loan for Enterprises (SMILE)
+12,Incubator_12,Gaming,Workspace,Series A,Punjab,Yes,6,Yes,Electronics Development Fund (EDF)
+13,Incubator_13,E-commerce,Mentoring,Series A,Kerala,No,8,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+14,Incubator_14,Logistics,Mentoring,Pre Seed,Uttarakhand,Yes,16,Yes,National Skill Development Initiative
+15,Incubator_15,Biotech,Mentoring,Series A,Karnataka,No,4,Yes,Atal Innovation Mission (AIM)
+16,Incubator_16,EdTech,Funding Support,Pre Seed,Meghalaya,Yes,16,Yes,National Initiative for Developing and Harnessing Innovations 
+17,Incubator_17,Cybersecurity,Networking,Series B,Gujarat,Yes,1,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+18,Incubator_18,E-commerce,Funding Support,Series B,Haryana,Yes,16,No,Startup India Seed Fund Scheme (SISFS)
+19,Incubator_19,Property Technology,Funding Support,Pre Seed,Chhattisgarh,Yes,15,No,Stand-Up India Scheme
+20,Incubator_20,CleanTech,Networking,Series B,Arunachal Pradesh,Yes,11,Yes,Digital India Initiative Support
+21,Incubator_21,Biotech,Workspace,Pre Seed,Odisha,No,16,No,Multisectoral Support for Entrepreneurs
+22,Incubator_22,HealthTech,Mentoring,Series C,Maharashtra,Yes,10,No,Stand-Up India Scheme
+23,Incubator_23,FoodTech,Workspace,Pre Seed,West Bengal,Yes,10,Yes,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+24,Incubator_24,Renewable Energy,Mentoring,Series C,Goa,No,5,No,National Initiative for Developing and Harnessing Innovations (NIDHI)
+25,Incubator_25,MediaTech,Workspace,Series A,Odisha,No,1,Yes,Credit Guarantee Scheme for Startups (CGSS)
+26,Incubator_26,SaaS,Networking,Series B,Odisha,Yes,2,No,SIDBI Make in India Loan for Enterprises 
+27,Incubator_27,Logistics,Workspace,Pre Seed,Punjab,Yes,3,No,Stand-Up India Scheme
+28,Incubator_28,Fintech,Workspace,Pre Seed,Punjab,No,7,Yes,Startup India Seed Fund Scheme (SISFS)
+29,Incubator_29,EdTech,Workspace,Pre Seed,Manipur,No,6,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+30,Incubator_30,AgriTech,Networking,Series C,Arunachal Pradesh,No,4,No,Credit Guarantee Scheme for Startups (CGSS)
+31,Incubator_31,AgriTech,Mentoring,Seed,Rajasthan,Yes,7,Yes,Credit Guarantee Scheme for Startups (CGSS)
+32,Incubator_32,AI,Funding Support,Series B,Andhra Pradesh,No,3,No,Fund of Funds for Startups (FFS)
+33,Incubator_33,EdTech,Mentoring,Pre Seed,Andhra Pradesh,Yes,19,No,Fund of Funds for Startups (FFS)
+34,Incubator_34,AgriTech,Mentoring,Series A,Jharkhand,Yes,14,No,Atal Innovation Mission (AIM)
+35,Incubator_35,Logistics,Networking,Seed,Arunachal Pradesh,No,13,No,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+36,Incubator_36,Logistics,Workspace,Pre Seed,Assam,No,17,Yes,National Skill Development Initiative
+37,Incubator_37,AgriTech,Workspace,Series A,Gujarat,Yes,17,Yes,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+38,Incubator_38,FoodTech,Funding Support,Series B,Gujarat,No,1,Yes,Electronics Development Fund (EDF)
+39,Incubator_39,RetailTech,Mentoring,Pre Seed,Maharashtra,Yes,18,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+40,Incubator_40,Renewable Energy,Networking,Series B,Manipur,No,14,Yes,Digital India Initiative Support
+41,Incubator_41,E-commerce,Mentoring,Seed,Bihar,No,8,No,Technology Development Programme (TDP)
+42,Incubator_42,Biotech,Workspace,Series A,Odisha,No,16,No,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+43,Incubator_43,RetailTech,Funding Support,Seed,Bihar,Yes,7,No,Multisectoral Support for Entrepreneurs (MUDRA Yojana)
+44,Incubator_44,EdTech,Workspace,Series B,West Bengal,Yes,7,No,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+45,Incubator_45,TravelTech,Networking,Pre Seed,West Bengal,No,2,No,Credit Guarantee Scheme for Startups (CGSS)
+46,Incubator_46,Logistics,Funding Support,Seed,Telangana,Yes,16,Yes,Technology Development Programme (TDP)
+47,Incubator_47,EdTech,Networking,Seed,Maharashtra,No,13,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+48,Incubator_48,Renewable Energy,Mentoring,Series A,Chhattisgarh,No,3,No,Electronics Development Fund (EDF)
+49,Incubator_49,Logistics,Funding Support,Series B,Maharashtra,No,1,Yes,Atal Innovation Mission (AIM)
+50,Incubator_50,E-commerce,Networking,Series B,Chhattisgarh,Yes,2,No,Atal Innovation Mission (AIM)
+51,Incubator_51,MediaTech,Mentoring,Series A,Meghalaya,No,13,No,Technology Development Programme (TDP)
+52,Incubator_52,HealthTech,Networking,Seed,Bihar,No,17,No,SIDBI Make in India Loan for Enterprises (SMILE)
+53,Incubator_53,HealthTech,Networking,Series C,Assam,Yes,6,Yes,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+54,Incubator_54,IoT,Mentoring,Series C,Jharkhand,Yes,1,Yes,Digital India Initiative Support
+55,Incubator_55,Fintech,Networking,Pre Seed,Telangana,No,4,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+56,Incubator_56,FoodTech,Networking,Seed,Gujarat,No,16,No,Electronics Development Fund (EDF)
+57,Incubator_57,CleanTech,Workspace,Pre Seed,Uttarakhand,No,6,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+58,Incubator_58,CleanTech,Networking,Series C,Bihar,No,17,Yes,Fund of Funds for Startups (FFS)
+59,Incubator_59,Gaming,Mentoring,Series B,Karnataka,No,6,No,Credit Guarantee Scheme for Startups (CGSS)
+60,Incubator_60,AgriTech,Workspace,Series B,Himachal Pradesh,No,15,Yes,Stand-Up India Scheme
+61,Incubator_61,MediaTech,Mentoring,Series A,Jharkhand,Yes,14,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+62,Incubator_62,Renewable Energy,Funding Support,Pre Seed,Telangana,No,2,Yes,Startup India Seed Fund Scheme (SISFS)
+63,Incubator_63,Renewable Energy,Workspace,Pre Seed,West Bengal,No,2,No,Technology Development Programme (TDP)
+64,Incubator_64,TravelTech,Mentoring,Series C,Telangana,No,6,No,National Skill Development Initiative
+65,Incubator_65,E-commerce,Networking,Series A,Himachal Pradesh,Yes,16,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+66,Incubator_66,IoT,Workspace,Series B,Andhra Pradesh,Yes,8,No,Fund of Funds for Startups (FFS)
+67,Incubator_67,Gaming,Funding Support,Series C,Punjab,Yes,3,Yes,Credit Guarantee Scheme for Startups (CGSS)
+68,Incubator_68,Cybersecurity,Workspace,Seed,Uttarakhand,Yes,13,Yes,Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+69,Incubator_69,E-commerce,Networking,Pre Seed,West Bengal,Yes,16,No,Fund of Funds for Startups (FFS)
+70,Incubator_70,EdTech,Networking,Series A,Kerala,No,1,No,Technology Development Programme (TDP)
+71,Incubator_71,Biotech,Networking,Seed,Madhya Pradesh,Yes,7,Yes,Fund of Funds for Startups (FFS)
+72,Incubator_72,E-commerce,Mentoring,Series A,Mizoram,Yes,3,No,Stand-Up India Scheme
+73,Incubator_73,AI,Funding Support,Series A,Tamil Nadu,No,18,Yes,National Initiative for Developing and Harnessing Innovations (NIDHI)
+74,Incubator_74,Robotics,Mentoring,Series A,Bihar,Yes,15,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+75,Incubator_75,AI,Mentoring,Seed,Tamil Nadu,No,3,Yes,Electronics Development Fund (EDF)
+76,Incubator_76,Gaming,Funding Support,Seed,Tripura,No,6,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+77,Incubator_77,CleanTech,Networking,Series A,Assam,No,20,No,SIDBI Make in India Loan for Enterprises (SMILE)
+78,Incubator_78,Cybersecurity,Networking,Series A,Chhattisgarh,No,14,No,Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+79,Incubator_79,Gaming,Funding Support,Pre Seed,Mizoram,No,17,No,National Initiative for Developing and Harnessing Innovations (NIDHI)
+80,Incubator_80,HealthTech,Funding Support,Pre Seed,Manipur,No,17,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+81,Incubator_81,IoT,Workspace,Pre Seed,Tripura,Yes,15,Yes,National Skill Development Initiative
+82,Incubator_82,Fintech,Funding Support,Series B,Nagaland,No,6,Yes,Technology Development Programme (TDP)
+83,Incubator_83,AgriTech,Mentoring,Pre Seed,Uttarakhand,Yes,14,No,Startup India Seed Fund Scheme (SISFS)
+84,Incubator_84,Logistics,Funding Support,Series C,Haryana,No,3,Yes,Electronics Development Fund (EDF)
+85,Incubator_85,Gaming,Workspace,Series A,Arunachal Pradesh,No,1,No,National Skill Development Initiative
+86,Incubator_86,Gaming,Networking,Seed,Meghalaya,No,15,Yes,Fund of Funds for Startups (FFS)
+87,Incubator_87,SaaS,Workspace,Series B,Odisha,No,8,No,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+88,Incubator_88,AI,Workspace,Series A,Goa,Yes,2,Yes,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+89,Incubator_89,AI,Funding Support,Series B,Gujarat,Yes,20,No,Stand-Up India Scheme
+90,Incubator_90,IoT,Workspace,Series A,Manipur,No,3,No,Electronics Development Fund (EDF)
+91,Incubator_91,Gaming,Funding Support,Seed,Telangana,Yes,12,Yes,National Skill Development Initiative
+92,Incubator_92,Renewable Energy,Mentoring,Series C,Kerala,No,11,Yes,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+93,Incubator_93,AI,Mentoring,Series C,Arunachal Pradesh,Yes,1,Yes,Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+94,Incubator_94,RetailTech,Mentoring,Pre Seed,Arunachal Pradesh,Yes,20,Yes,Electronics Development Fund (EDF)
+95,Incubator_95,FoodTech,Funding Support,Seed,Sikkim,Yes,19,Yes,Fund of Funds for Startups (FFS)
+96,Incubator_96,Robotics,Mentoring,Series B,Manipur,Yes,19,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+97,Incubator_97,Logistics,Mentoring,Seed,Arunachal Pradesh,No,7,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+98,Incubator_98,EdTech,Networking,Series C,Karnataka,Yes,20,No,SIDBI Make in India Loan for Enterprises (SMILE)
+99,Incubator_99,MediaTech,Workspace,Series C,Tamil Nadu,No,8,Yes,Credit Guarantee Scheme for Startups (CGSS)
+100,Incubator_100,Cybersecurity,Funding Support,Series B,Meghalaya,No,20,No,SIDBI Make in India Loan for Enterprises (SMILE)
+101,Incubator_101,CleanTech,Funding Support,Series A,Assam,No,8,Yes,Fund of Funds for Startups (FFS)
+102,Incubator_102,EdTech,Networking,Series C,Goa,Yes,5,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+103,Incubator_103,Fintech,Networking,Series C,Punjab,No,6,No,Atal Innovation Mission (AIM)
+104,Incubator_104,IoT,Mentoring,Series A,Chhattisgarh,No,17,No,Multisectoral Support for Entrepreneurs (MUDRA Yojana)
+105,Incubator_105,TravelTech,Networking,Series A,Maharashtra,No,17,No,National Initiative for Developing and Harnessing Innovations (NIDHI)
+106,Incubator_106,Robotics,Networking,Series B,Himachal Pradesh,Yes,20,Yes,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+107,Incubator_107,Logistics,Mentoring,Series A,Madhya Pradesh,Yes,9,Yes,National Initiative for Developing and Harnessing Innovations (NIDHI)
+108,Incubator_108,Fintech,Workspace,Series C,Karnataka,No,16,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+109,Incubator_109,IoT,Networking,Series A,Mizoram,No,16,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+110,Incubator_110,Fintech,Networking,Series C,West Bengal,No,13,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+111,Incubator_111,SaaS,Networking,Pre Seed,Maharashtra,No,18,Yes,Startup India Seed Fund Scheme (SISFS)
+112,Incubator_112,Logistics,Networking,Seed,Tripura,Yes,1,Yes,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+113,Incubator_113,IoT,Mentoring,Series B,Arunachal Pradesh,No,7,Yes,National Skill Development Initiative
+114,Incubator_114,Gaming,Mentoring,Series C,Odisha,Yes,20,No,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+115,Incubator_115,AI,Funding Support,Seed,Sikkim,No,1,No,SIDBI Make in India Loan for Enterprises (SMILE)
+116,Incubator_116,FoodTech,Funding Support,Pre Seed,Mizoram,No,12,Yes,National Initiative for Developing and Harnessing Innovations (NIDHI)
+117,Incubator_117,Biotech,Funding Support,Pre Seed,Meghalaya,Yes,15,No,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+118,Incubator_118,Gaming,Workspace,Pre Seed,Arunachal Pradesh,Yes,11,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+119,Incubator_119,Robotics,Networking,Series C,Andhra Pradesh,No,6,Yes,Technology Development Programme (TDP)
+120,Incubator_120,Gaming,Networking,Series B,Chhattisgarh,Yes,9,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+121,Incubator_121,FoodTech,Networking,Seed,Maharashtra,Yes,14,No,Credit Guarantee Scheme for Startups (CGSS)
+122,Incubator_122,Biotech,Mentoring,Series B,Bihar,Yes,8,No,Technology Development Programme (TDP)
+123,Incubator_123,Fintech,Workspace,Series C,Meghalaya,Yes,8,Yes,Fund of Funds for Startups (FFS)
+124,Incubator_124,Property Technology,Workspace,Series C,Mizoram,Yes,20,No,Digital India Initiative Support
+125,Incubator_125,TravelTech,Networking,Series A,Rajasthan,Yes,11,Yes,Stand-Up India Scheme
+126,Incubator_126,EdTech,Mentoring,Pre Seed,Nagaland,No,1,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+127,Incubator_127,HealthTech,Mentoring,Series B,Manipur,No,8,Yes,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+128,Incubator_128,Biotech,Workspace,Seed,Goa,No,1,No,Startup India Seed Fund Scheme (SISFS)
+129,Incubator_129,SaaS,Workspace,Pre Seed,Assam,No,12,Yes,Stand-Up India Scheme
+130,Incubator_130,Renewable Energy,Networking,Series C,Gujarat,No,11,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+131,Incubator_131,HealthTech,Networking,Pre Seed,West Bengal,No,2,No,Digital India Initiative Support
+132,Incubator_132,Logistics,Workspace,Seed,Andhra Pradesh,No,8,No,National Skill Development Initiative
+133,Incubator_133,E-commerce,Networking,Series C,Uttar Pradesh,Yes,5,No,Fund of Funds for Startups (FFS)
+134,Incubator_134,CleanTech,Mentoring,Series C,Nagaland,No,9,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+135,Incubator_135,EdTech,Funding Support,Pre Seed,Rajasthan,Yes,9,No,Startup India Seed Fund Scheme (SISFS)
+136,Incubator_136,EdTech,Funding Support,Series A,Assam,No,16,No,Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+137,Incubator_137,Cybersecurity,Workspace,Series A,Telangana,No,10,No,Startup India Seed Fund Scheme (SISFS)
+138,Incubator_138,Cybersecurity,Workspace,Pre Seed,Andhra Pradesh,Yes,12,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+139,Incubator_139,Cybersecurity,Workspace,Pre Seed,Manipur,No,19,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+140,Incubator_140,Cybersecurity,Workspace,Series B,West Bengal,No,16,Yes,Atal Innovation Mission (AIM)
+141,Incubator_141,Robotics,Funding Support,Series C,Haryana,No,1,Yes,Technology Development Programme (TDP)
+142,Incubator_142,CleanTech,Workspace,Pre Seed,Punjab,Yes,4,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+143,Incubator_143,Gaming,Networking,Series B,Tamil Nadu,Yes,4,No,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+144,Incubator_144,EdTech,Mentoring,Series A,Bihar,No,18,No,SIDBI Make in India Loan for Enterprises (SMILE)
+145,Incubator_145,Logistics,Funding Support,Series A,Manipur,Yes,4,No,Fund of Funds for Startups (FFS)
+146,Incubator_146,Fintech,Mentoring,Series C,Assam,No,6,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+147,Incubator_147,Fintech,Funding Support,Series B,Jharkhand,No,16,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+148,Incubator_148,RetailTech,Workspace,Seed,Andhra Pradesh,Yes,11,Yes,Technology Development Programme (TDP)
+149,Incubator_149,Property Technology,Mentoring,Pre Seed,Nagaland,Yes,16,No,National Initiative for Developing and Harnessing Innovations (NIDHI)
+150,Incubator_150,Renewable Energy,Funding Support,Series B,Uttarakhand,No,10,Yes,Credit Guarantee Scheme for Startups (CGSS)
+151,Incubator_151,MediaTech,Workspace,Series C,Jharkhand,No,5,Yes,Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+152,Incubator_152,Renewable Energy,Workspace,Series A,Kerala,Yes,8,Yes,Atal Innovation Mission (AIM)
+153,Incubator_153,AI,Funding Support,Pre Seed,Punjab,Yes,17,Yes,Atal Innovation Mission (AIM)
+154,Incubator_154,Biotech,Funding Support,Series A,Arunachal Pradesh,Yes,15,Yes,Atal Innovation Mission (AIM)
+155,Incubator_155,Robotics,Networking,Pre Seed,Madhya Pradesh,No,4,Yes,National Initiative for Developing and Harnessing Innovations (NIDHI)
+156,Incubator_156,Property Technology,Workspace,Seed,Manipur,No,2,No,Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+157,Incubator_157,Robotics,Networking,Seed,Odisha,No,6,Yes,Multisectoral Support for Entrepreneurs (MUDRA Yojana)
+158,Incubator_158,Robotics,Networking,Series B,West Bengal,Yes,13,No,Credit Guarantee Scheme for Startups (CGSS)
+159,Incubator_159,Biotech,Funding Support,Series B,Punjab,No,3,Yes,Atal Innovation Mission (AIM)
+160,Incubator_160,MediaTech,Funding Support,Seed,Manipur,Yes,3,No,Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+161,Incubator_161,RetailTech,Funding Support,Series C,Punjab,No,3,Yes,National Skill Development Initiative
+162,Incubator_162,AgriTech,Funding Support,Seed,Arunachal Pradesh,Yes,12,Yes,Multisectoral Support for Entrepreneurs (MUDRA Yojana)
+163,Incubator_163,Logistics,Networking,Series B,Goa,No,7,Yes,National Skill Development Initiative
+164,Incubator_164,EdTech,Workspace,Series C,Rajasthan,Yes,2,Yes,Atal Innovation Mission (AIM)
+165,Incubator_165,RetailTech,Workspace,Seed,Assam,No,14,Yes,Atal Innovation Mission (AIM)
+166,Incubator_166,IoT,Mentoring,Seed,Rajasthan,No,17,Yes,Technology Development Programme (TDP)
+167,Incubator_167,AgriTech,Networking,Seed,Himachal Pradesh,No,6,No,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+168,Incubator_168,Fintech,Funding Support,Series B,Assam,Yes,17,No,Multisectoral Support for Entrepreneurs (MUDRA Yojana)
+169,Incubator_169,RetailTech,Mentoring,Series B,Meghalaya,No,9,Yes,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+170,Incubator_170,CleanTech,Networking,Series A,Goa,No,19,No,Atal Innovation Mission (AIM)
+171,Incubator_171,FoodTech,Mentoring,Seed,Rajasthan,No,20,Yes,Stand-Up India Scheme
+172,Incubator_172,Fintech,Workspace,Seed,Nagaland,No,4,No,Digital India Initiative Support
+173,Incubator_173,Biotech,Funding Support,Series B,Odisha,No,19,Yes,Digital India Initiative Support
+174,Incubator_174,SaaS,Workspace,Series B,Telangana,No,8,No,Multisectoral Support for Entrepreneurs (MUDRA Yojana)
+175,Incubator_175,CleanTech,Workspace,Seed,Telangana,Yes,20,Yes,Digital India Initiative Support
+176,Incubator_176,Property Technology,Mentoring,Pre Seed,Karnataka,No,13,No,Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+177,Incubator_177,Robotics,Workspace,Seed,Sikkim,Yes,3,Yes,"ASPIRE - A Scheme for Promotion of Innovation, Rural Industries, and Entrepreneurship"
+178,Incubator_178,TravelTech,Funding Support,Series B,Mizoram,Yes,8,No,Credit Guarantee Scheme for Startups (CGSS)
+179,Incubator_179,TravelTech,Mentoring,Series B,Tamil Nadu,Yes,7,Yes,National Skill Development Initiative
+180,Incubator_180,AgriTech,Workspace,Pre Seed,Rajasthan,Yes,14,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+181,Incubator_181,RetailTech,Mentoring,Series C,Uttar Pradesh,Yes,4,No,Atal Innovation Mission (AIM)
+182,Incubator_182,FoodTech,Mentoring,Seed,Arunachal Pradesh,Yes,6,No,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+183,Incubator_183,AgriTech,Mentoring,Pre Seed,Kerala,Yes,18,Yes,Fund of Funds for Startups (FFS)
+184,Incubator_184,E-commerce,Funding Support,Series A,Telangana,Yes,9,No,Multisectoral Support for Entrepreneurs (MUDRA Yojana)
+185,Incubator_185,CleanTech,Funding Support,Series A,Karnataka,No,11,Yes,SIDBI Make in India Loan for Enterprises (SMILE)
+186,Incubator_186,Logistics,Funding Support,Pre Seed,Bihar,No,9,No,Credit Guarantee Scheme for Startups (CGSS)
+187,Incubator_187,MediaTech,Networking,Seed,Mizoram,Yes,17,No,Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+188,Incubator_188,Biotech,Funding Support,Seed,Assam,Yes,7,Yes,Credit Guarantee Scheme for Startups (CGSS)
+189,Incubator_189,MediaTech,Workspace,Pre Seed,Punjab,No,3,No,Stand-Up India Scheme
+190,Incubator_190,FoodTech,Networking,Seed,Madhya Pradesh,No,6,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+191,Incubator_191,MediaTech,Mentoring,Seed,Uttarakhand,Yes,9,Yes,Support for International Patent Protection in Electronics and Information Technology (SIP-EIT)
+192,Incubator_192,Cybersecurity,Workspace,Seed,Uttar Pradesh,No,5,Yes,National Skill Development Initiative
+193,Incubator_193,RetailTech,Funding Support,Seed,Tamil Nadu,Yes,8,No,Multisectoral Support for Entrepreneurs (MUDRA Yojana)
+194,Incubator_194,IoT,Mentoring,Seed,Punjab,Yes,3,Yes,Digital India Initiative Support
+195,Incubator_195,FoodTech,Workspace,Pre Seed,Rajasthan,Yes,14,No,National Initiative for Developing and Harnessing Innovations (NIDHI)
+196,Incubator_196,Gaming,Funding Support,Seed,Meghalaya,Yes,5,Yes,Atal Innovation Mission (AIM)
+197,Incubator_197,AI,Mentoring,Series C,Rajasthan,No,20,No,Stand-Up India Scheme
+198,Incubator_198,FoodTech,Workspace,Series C,Odisha,Yes,16,No,Electronics Development Fund (EDF)
+199,Incubator_199,E-commerce,Mentoring,Series A,Chhattisgarh,Yes,16,No,Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+200,Incubator_200,IoT,Networking,Series A,Nagaland,Yes,3,No,Electronics Development Fund 

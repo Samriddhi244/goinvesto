@@ -1,0 +1,201 @@
+ID,Name,Industry,Minimum Investment,Maximum Investment,Stage,Location,Portfolio Size,Active Investments
+1,Investor_1,RetailTech,32478,457687,Series B,Jharkhand,18,26
+2,Investor_2,IoT,28410,484290,Series A,Jharkhand,18,18
+3,Investor_3,RetailTech,23863,348971,Seed,Telangana,11,28
+4,Investor_4,AI,10428,315015,Series A,Maharashtra,36,11
+5,Investor_5,TravelTech,17072,409213,Series C,Goa,42,22
+6,Investor_6,CleanTech,36594,391210,Series A,Tripura,36,6
+7,Investor_7,TravelTech,12067,306337,Pre Seed,Rajasthan,29,25
+8,Investor_8,Renewable Energy,30478,444452,Seed,Gujarat,29,9
+9,Investor_9,Fintech,29460,146687,Series C,Karnataka,41,22
+10,Investor_10,MediaTech,22741,80026,Seed,Haryana,27,22
+11,Investor_11,TravelTech,18286,177712,Series C,Rajasthan,29,26
+12,Investor_12,Property Technology,39772,462206,Series A,Punjab,42,3
+13,Investor_13,EdTech,35768,211217,Series A,Tripura,28,22
+14,Investor_14,RetailTech,38536,59387,Pre Seed,Rajasthan,43,23
+15,Investor_15,HealthTech,29450,144479,Series A,Chhattisgarh,25,26
+16,Investor_16,Gaming,21558,112636,Pre Seed,Odisha,26,7
+17,Investor_17,Biotech,16291,211231,Series B,Bihar,19,7
+18,Investor_18,FoodTech,30224,305955,Series B,Maharashtra,48,22
+19,Investor_19,IoT,33563,285174,Pre Seed,Manipur,23,11
+20,Investor_20,Robotics,26061,440769,Series B,Manipur,20,18
+21,Investor_21,Biotech,49270,109895,Pre Seed,Tripura,49,12
+22,Investor_22,RetailTech,11250,63677,Series C,Rajasthan,30,2
+23,Investor_23,Gaming,37246,411365,Pre Seed,Haryana,43,15
+24,Investor_24,Renewable Energy,14259,230061,Series C,Rajasthan,30,28
+25,Investor_25,AgriTech,19399,202556,Series A,Tamil Nadu,22,8
+26,Investor_26,MediaTech,13993,91735,Series B,West Bengal,44,12
+27,Investor_27,Cybersecurity,11117,110830,Pre Seed,Gujarat,27,18
+28,Investor_28,RetailTech,46870,378860,Pre Seed,Bihar,24,25
+29,Investor_29,IoT,25533,441163,Pre Seed,Nagaland,20,30
+30,Investor_30,EdTech,29862,420496,Series C,Andhra Pradesh,35,23
+31,Investor_31,Cybersecurity,16349,84071,Seed,Bihar,14,14
+32,Investor_32,CleanTech,22759,227591,Series B,Manipur,31,2
+33,Investor_33,Gaming,38089,318698,Pre Seed,Assam,24,13
+34,Investor_34,E-commerce,28233,468569,Series A,Jharkhand,49,25
+35,Investor_35,IoT,15930,333019,Seed,Kerala,21,12
+36,Investor_36,Biotech,29472,308025,Pre Seed,Punjab,34,29
+37,Investor_37,Robotics,29062,158504,Series A,Bihar,6,16
+38,Investor_38,EdTech,20935,196084,Series B,Arunachal Pradesh,20,29
+39,Investor_39,TravelTech,23333,264087,Pre Seed,Kerala,8,15
+40,Investor_40,AI,20096,126754,Series B,Meghalaya,9,22
+41,Investor_41,HealthTech,21862,176966,Seed,Arunachal Pradesh,10,22
+42,Investor_42,Cybersecurity,45108,164686,Series A,Mizoram,48,27
+43,Investor_43,Gaming,27165,122853,Seed,Haryana,8,4
+44,Investor_44,HealthTech,29498,242391,Series B,Madhya Pradesh,36,19
+45,Investor_45,RetailTech,12237,96721,Pre Seed,Manipur,30,22
+46,Investor_46,Property Technology,23940,444586,Seed,Chhattisgarh,22,5
+47,Investor_47,RetailTech,26403,375227,Seed,Manipur,14,19
+48,Investor_48,MediaTech,49112,251111,Series A,Andhra Pradesh,8,15
+49,Investor_49,Logistics,12953,349019,Series B,Jharkhand,34,3
+50,Investor_50,IoT,39461,436362,Series B,West Bengal,27,7
+51,Investor_51,RetailTech,35154,103020,Series A,Tripura,43,26
+52,Investor_52,Fintech,48238,305111,Seed,Haryana,13,6
+53,Investor_53,EdTech,28461,156607,Series C,Telangana,36,4
+54,Investor_54,Renewable Energy,21370,175737,Series C,Kerala,33,18
+55,Investor_55,Renewable Energy,49438,401914,Pre Seed,Meghalaya,37,23
+56,Investor_56,Gaming,40464,343693,Seed,Arunachal Pradesh,19,28
+57,Investor_57,CleanTech,25385,390393,Pre Seed,Sikkim,40,1
+58,Investor_58,Logistics,36073,177047,Series C,Haryana,44,12
+59,Investor_59,CleanTech,27894,305020,Series B,Goa,43,9
+60,Investor_60,Property Technology,46905,458702,Series B,Andhra Pradesh,20,20
+61,Investor_61,RetailTech,35561,311464,Series A,Bihar,19,9
+62,Investor_62,CleanTech,26617,233376,Pre Seed,Kerala,34,1
+63,Investor_63,SaaS,37711,394108,Pre Seed,Kerala,14,15
+64,Investor_64,RetailTech,44163,57599,Series C,Nagaland,29,20
+65,Investor_65,E-commerce,19628,231744,Series A,Telangana,16,1
+66,Investor_66,MediaTech,44994,181547,Series B,Chhattisgarh,6,3
+67,Investor_67,Gaming,27496,108169,Series C,Arunachal Pradesh,5,5
+68,Investor_68,RetailTech,26082,415425,Seed,Himachal Pradesh,23,6
+69,Investor_69,Biotech,27180,151716,Pre Seed,Manipur,9,25
+70,Investor_70,Property Technology,46158,316363,Series A,Bihar,17,9
+71,Investor_71,E-commerce,29150,430229,Seed,Goa,16,9
+72,Investor_72,Biotech,14430,76916,Series A,Assam,10,20
+73,Investor_73,Renewable Energy,44388,453502,Series A,Tamil Nadu,37,4
+74,Investor_74,IoT,21315,467052,Series A,Maharashtra,31,5
+75,Investor_75,Renewable Energy,22402,164526,Seed,Uttar Pradesh,30,5
+76,Investor_76,Gaming,24074,228426,Seed,Mizoram,28,5
+77,Investor_77,Gaming,32577,419633,Series A,Arunachal Pradesh,38,20
+78,Investor_78,Renewable Energy,28851,468453,Series A,Nagaland,45,16
+79,Investor_79,Biotech,29787,66468,Pre Seed,Uttar Pradesh,11,5
+80,Investor_80,FoodTech,46391,86435,Pre Seed,Odisha,10,28
+81,Investor_81,AgriTech,21612,74269,Pre Seed,Meghalaya,6,14
+82,Investor_82,Gaming,49331,452658,Series B,Madhya Pradesh,42,18
+83,Investor_83,AgriTech,39794,369819,Pre Seed,Jharkhand,45,30
+84,Investor_84,Renewable Energy,27012,467113,Series C,Tamil Nadu,14,19
+85,Investor_85,AgriTech,40465,191387,Series A,Tripura,38,27
+86,Investor_86,E-commerce,34637,127302,Seed,Sikkim,40,12
+87,Investor_87,AgriTech,21996,351483,Series B,Telangana,13,16
+88,Investor_88,Cybersecurity,39509,415984,Series A,Manipur,48,8
+89,Investor_89,Gaming,47486,79864,Series B,Tamil Nadu,49,17
+90,Investor_90,Renewable Energy,25679,331104,Series A,Bihar,26,22
+91,Investor_91,Robotics,29451,386496,Seed,Chhattisgarh,17,3
+92,Investor_92,TravelTech,47191,444613,Series C,Goa,49,23
+93,Investor_93,FoodTech,19181,136244,Series C,Karnataka,39,27
+94,Investor_94,EdTech,40629,488282,Pre Seed,Rajasthan,17,18
+95,Investor_95,Gaming,13844,381233,Seed,Jharkhand,39,28
+96,Investor_96,EdTech,44762,483060,Series B,Punjab,43,18
+97,Investor_97,Logistics,33293,459615,Seed,Sikkim,40,24
+98,Investor_98,HealthTech,17657,287331,Series C,Sikkim,47,20
+99,Investor_99,Property Technology,22325,96380,Series C,Uttar Pradesh,6,13
+100,Investor_100,Logistics,34151,438363,Series B,West Bengal,21,10
+101,Investor_101,Renewable Energy,11863,117460,Series A,Karnataka,43,17
+102,Investor_102,Property Technology,22997,222686,Series C,Madhya Pradesh,44,5
+103,Investor_103,IoT,33994,380756,Series C,Rajasthan,24,25
+104,Investor_104,AI,42241,128507,Series A,Haryana,38,18
+105,Investor_105,Renewable Energy,48469,209632,Series A,Mizoram,44,17
+106,Investor_106,Fintech,11080,229011,Series B,Telangana,7,26
+107,Investor_107,CleanTech,17670,300282,Series A,Maharashtra,19,4
+108,Investor_108,Fintech,48405,308234,Series C,Meghalaya,37,24
+109,Investor_109,E-commerce,28009,322087,Series A,Kerala,15,13
+110,Investor_110,SaaS,39925,113349,Series C,Telangana,28,9
+111,Investor_111,Robotics,13736,272716,Pre Seed,Uttar Pradesh,20,5
+112,Investor_112,Logistics,14848,363523,Seed,Himachal Pradesh,21,11
+113,Investor_113,RetailTech,48666,436839,Series B,Andhra Pradesh,30,2
+114,Investor_114,IoT,10798,272111,Series C,Andhra Pradesh,17,1
+115,Investor_115,IoT,43659,244438,Seed,Tamil Nadu,17,13
+116,Investor_116,Fintech,16150,230888,Pre Seed,Assam,23,13
+117,Investor_117,CleanTech,49228,444391,Pre Seed,Assam,42,11
+118,Investor_118,RetailTech,30058,110076,Pre Seed,Manipur,21,12
+119,Investor_119,Cybersecurity,42874,60753,Series C,Madhya Pradesh,36,30
+120,Investor_120,AI,38001,300843,Series B,Andhra Pradesh,28,4
+121,Investor_121,SaaS,12095,426630,Seed,Himachal Pradesh,36,13
+122,Investor_122,AI,42485,293214,Series B,Meghalaya,33,30
+123,Investor_123,FoodTech,18493,138736,Series C,Meghalaya,38,21
+124,Investor_124,Logistics,43029,390535,Series C,Himachal Pradesh,44,17
+125,Investor_125,FoodTech,48483,450834,Series A,Punjab,11,21
+126,Investor_126,SaaS,32450,216191,Pre Seed,Nagaland,8,7
+127,Investor_127,IoT,45798,491578,Series B,Tamil Nadu,40,7
+128,Investor_128,SaaS,33810,447282,Seed,Assam,18,24
+129,Investor_129,Fintech,36467,123440,Pre Seed,Sikkim,17,9
+130,Investor_130,FoodTech,34932,126728,Series C,Telangana,37,12
+131,Investor_131,Biotech,44240,131273,Pre Seed,West Bengal,38,28
+132,Investor_132,AgriTech,16895,243833,Seed,Telangana,48,3
+133,Investor_133,MediaTech,24410,78609,Series C,Karnataka,35,3
+134,Investor_134,E-commerce,24059,175931,Series C,Uttarakhand,11,28
+135,Investor_135,Biotech,25077,293389,Pre Seed,Odisha,16,13
+136,Investor_136,Fintech,26506,331940,Series A,Mizoram,37,5
+137,Investor_137,Logistics,14243,102435,Series A,Mizoram,40,6
+138,Investor_138,Logistics,42353,358875,Pre Seed,Himachal Pradesh,25,19
+139,Investor_139,Logistics,38157,230055,Pre Seed,Uttar Pradesh,14,11
+140,Investor_140,Gaming,49118,206486,Series B,Sikkim,17,24
+141,Investor_141,Fintech,37637,134872,Series C,Andhra Pradesh,22,7
+142,Investor_142,Robotics,16903,359716,Pre Seed,West Bengal,38,8
+143,Investor_143,Biotech,34254,211100,Series B,Nagaland,31,4
+144,Investor_144,MediaTech,42242,499787,Series A,Punjab,20,26
+145,Investor_145,AI,34372,148855,Series A,Assam,25,8
+146,Investor_146,Logistics,18427,66039,Series C,Chhattisgarh,31,17
+147,Investor_147,Logistics,41210,96397,Series B,Kerala,14,16
+148,Investor_148,IoT,20213,177041,Seed,Gujarat,27,12
+149,Investor_149,Logistics,49971,463764,Pre Seed,West Bengal,6,23
+150,Investor_150,E-commerce,49285,186963,Series B,Mizoram,39,18
+151,Investor_151,Fintech,20874,254409,Series C,Maharashtra,50,25
+152,Investor_152,Biotech,43654,206656,Series A,Sikkim,35,5
+153,Investor_153,Biotech,33628,58646,Pre Seed,Jharkhand,41,3
+154,Investor_154,Gaming,14944,364277,Series A,Meghalaya,41,4
+155,Investor_155,HealthTech,29952,311885,Pre Seed,Chhattisgarh,7,1
+156,Investor_156,Logistics,27512,316234,Seed,West Bengal,26,30
+157,Investor_157,Property Technology,19141,397755,Seed,Odisha,12,27
+158,Investor_158,CleanTech,15489,86916,Series B,Uttarakhand,35,22
+159,Investor_159,AI,26790,416076,Series B,Sikkim,26,9
+160,Investor_160,CleanTech,13508,136187,Seed,Tripura,12,12
+161,Investor_161,RetailTech,34285,85069,Series C,Andhra Pradesh,27,18
+162,Investor_162,MediaTech,37900,292507,Seed,West Bengal,19,8
+163,Investor_163,AI,40820,187110,Series B,Meghalaya,44,8
+164,Investor_164,HealthTech,12690,451847,Series C,Odisha,20,5
+165,Investor_165,IoT,19864,300381,Seed,Karnataka,11,9
+166,Investor_166,RetailTech,49496,164874,Seed,Madhya Pradesh,7,24
+167,Investor_167,AI,15881,243375,Seed,Maharashtra,10,28
+168,Investor_168,Logistics,40733,377822,Series B,Mizoram,6,22
+169,Investor_169,Fintech,35650,394776,Series B,Meghalaya,18,25
+170,Investor_170,Cybersecurity,46868,440596,Series A,Karnataka,50,15
+171,Investor_171,IoT,33705,451497,Seed,Madhya Pradesh,38,24
+172,Investor_172,Renewable Energy,22303,157430,Seed,Maharashtra,39,11
+173,Investor_173,AgriTech,12723,165055,Series B,Himachal Pradesh,14,22
+174,Investor_174,FoodTech,32258,350651,Series B,Madhya Pradesh,34,25
+175,Investor_175,Logistics,44484,480828,Seed,Assam,33,8
+176,Investor_176,AI,48888,81229,Pre Seed,Gujarat,29,13
+177,Investor_177,Property Technology,16921,194535,Seed,Tripura,28,1
+178,Investor_178,SaaS,41723,278841,Series B,Uttarakhand,50,19
+179,Investor_179,SaaS,43567,76101,Series B,Himachal Pradesh,21,16
+180,Investor_180,CleanTech,32072,86433,Pre Seed,Gujarat,16,8
+181,Investor_181,MediaTech,32718,366697,Series C,Meghalaya,21,20
+182,Investor_182,TravelTech,42396,428236,Seed,Manipur,10,19
+183,Investor_183,EdTech,42756,114210,Pre Seed,Uttarakhand,29,25
+184,Investor_184,CleanTech,20664,227515,Series A,Andhra Pradesh,9,17
+185,Investor_185,AI,30769,188722,Series A,Rajasthan,18,3
+186,Investor_186,RetailTech,26267,451559,Pre Seed,Jharkhand,30,24
+187,Investor_187,Gaming,14980,182567,Seed,Tamil Nadu,16,1
+188,Investor_188,Robotics,17897,482672,Seed,Telangana,21,20
+189,Investor_189,Gaming,11152,140327,Pre Seed,Punjab,50,29
+190,Investor_190,RetailTech,15982,308687,Seed,Assam,39,17
+191,Investor_191,IoT,21031,195730,Seed,Uttar Pradesh,18,19
+192,Investor_192,MediaTech,10118,151257,Seed,Nagaland,19,7
+193,Investor_193,Fintech,43161,310067,Seed,Uttarakhand,6,5
+194,Investor_194,Gaming,17866,214501,Seed,Gujarat,39,30
+195,Investor_195,Renewable Energy,18942,326904,Pre Seed,Karnataka,27,16
+196,Investor_196,RetailTech,24180,384426,Seed,Jharkhand,40,5
+197,Investor_197,SaaS,46052,394101,Series C,Maharashtra,42,30
+198,Investor_198,FoodTech,42576,403289,Series C,Rajasthan,7,29
+199,Investor_199,EdTech,15189,458062,Series A,Himachal Pradesh,35,1
+200,Investor_200,EdTech,12957,484439,Series A,Tripura,40,14

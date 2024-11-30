@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+            margin-top: 0;
+        }
+        .match-section {
+            margin-bottom: 30px;
+        }
+        .match-list {
+            list-style: none;
+            padding: 0;
+        }
+        .entry-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 15px;
+        }
+        .entry-card h4 {
+            margin: 0 0 10px;
+            font-size: 1.2em;
+        }
+        .entry-card p {
+            margin: 5px 0;
+        }
+        .no-matches {
+            color: #777;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Match Results</h2>
+        <p><strong>Preferred Entity:</strong> {{ preferred_entity }}</p>
+        
+        {% for match_type, matches in final_matches.items() %}
+        <div class="match-section">
+            <h3>{{ match_type }} Matches:</h3>
+            <ul class="match-list">
+                {% if matches %}
+                    {% for match in matches %}
+                        <li>
+                            <div class="entry-card">
+                                <h4>{{ match['Name'] }}</h4>
+                                <p><strong>Industry:</strong> {{ match['Industry'] }}</p>
+                                <p><strong>Stage:</strong> {{ match['Stage'] }}</p>
+                                {% if match.get('Funding Support') %}
+                                    <p><strong>Funding Support:</strong> {{ match['Funding Support'] }}</p>
+                                {% endif %}
+                                {% if match.get('Investment Range') %}
+                                    <p><strong>Investment Range:</strong> {{ match['Investment Range'] }}</p>
+                                {% endif %}
+                            </div>
+                        </li>
+                    {% endfor %}
+                {% else %}
+                    <p class="no-matches">No matches found.</p>
+                {% endif %}
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

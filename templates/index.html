@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Startup Matchmaking</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 400px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        label {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        input, select, button {
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #007BFF;
+            color: #ffffff;
+            cursor: pointer;
+            border: none;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #funding-field {
+            display: none;
+        }
+    </style>
+    <script>
+        function toggleFundingField(show) {
+            const fundingField = document.getElementById('funding-field');
+            fundingField.style.display = show ? 'block' : 'none';
+            if (!show) {
+                document.getElementById('funding').value = '';
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Find Your Match</h1>
+        <form action="/match" method="post">
+            <label for="name">Startup Name:</label>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="industry">Industry:</label>
+            <input type="text" id="industry" name="industry" placeholder="e.g., AI, FinTech" required>
+            
+            <label for="stage">Startup Stage:</label>
+            <select id="stage" name="stage" required>
+                <option value="Pre Seed">Pre Seed</option>
+                <option value="Seed">Seed</option>
+                <option value="Series A">Series A</option>
+                <option value="Series B">Series B</option>
+                <option value="Series C">Series C</option>
+            </select>
+            
+            <label for="preferred_entity">Preferred Entity:</label>
+            <select id="preferred_entity" name="preferred_entity" required>
+                <option value="Investor">Investor</option>
+                <option value="Incubator">Incubator</option>
+            </select>
+            
+            <label>Do you need funding?</label>
+            <div>
+                <input type="radio" id="funding-yes" name="needs_funding" value="Yes" onclick="toggleFundingField(true)" required>
+                <label for="funding-yes">Yes</label>
+                <input type="radio" id="funding-no" name="needs_funding" value="No" onclick="toggleFundingField(false)">
+                <label for="funding-no">No</label>
+            </div>
+            
+            <div id="funding-field">
+                <label for="funding">Funding Required (₹):</label>
+                <input type="number" id="funding" name="funding" placeholder="Enter amount">
+            </div>
+            
+            <button type="submit">Find Match</button>
+        </form>
+    </div>
+</body>
+</html>
